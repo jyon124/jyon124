@@ -3,7 +3,7 @@
 const today = true;
 while(today){
     drinkCoffee();
-    BeProductive();
+    beProductive();
 }
 ```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyon124&layout=compact)](https://github.com/jyon124/github-readme-stats)
