@@ -1,7 +1,8 @@
-### 👨🏻‍💻 Hi folks, I am <a href="https://footprint-j.herokuapp.com/" target="_blank">Nate</a>
+### 👨🏻‍💻 Hello folks, I am <a href="https://footprint-j.herokuapp.com/" target="_blank">Jooyon</a>
 
 Nice to meet you!<br/>
-I am a site reliability engineer and developer, I love programming, reading articles, brewing coffee, hanging out with stray cat🐈<br/>
+I am a software engineer, I love programming, reading articles, brewing coffee, hanging out with stray cat 🐈<br/>
+As a Software engineer, I enjoy exploring and learning new things!
 
 **Day-to-day I do or tries to do...**
 ```bash
