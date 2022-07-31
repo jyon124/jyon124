@@ -37,6 +37,8 @@ Aside, I enjoy reading articles, brewing coffee, and hanging out with a stray ca
 
 ## My GitHub Stats
 <p>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jyon124&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyon124&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=jyon124&theme=react-dark" />
 </p>
