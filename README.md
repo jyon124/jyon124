@@ -1,19 +1,39 @@
-### 👨🏻‍💻 Hello folks, I am <a href="https://footprint-j.herokuapp.com/" target="_blank">Jooyon</a>
+## 👨🏻‍💻 Hello folks, I am <a href="https://footprint-j.herokuapp.com/" target="_blank">Jooyon </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 Nice to meet you!<br/>
-I am a software engineer, I love programming, reading articles, brewing coffee, hanging out with stray cat 🐈<br/>
-As a Software engineer, I enjoy exploring and learning new things!
 
-**Day-to-day I do or tries to do...**
-```bash
-const awake = true;
-while(awake){
-    drinkCoffee();
-    beProductive();
-}
-```
+I am a software engineer who set high standards and strives continuously. Also, I am a self-motivated individual who can't stand without resolving curiosity that is wide as an ocean. I find joyful working with colleagues to collaborate, brainstorm, and create synergies amongst a team to achieve overall greater results.
+Aside, I enjoys reading articles, brewing coffee, hanging out with stray cat 🐈. <br/><br/>
+<a href="https://www.linkedin.com/in/jooyon-won-8093b013a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://footprint-j.herokuapp.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 <br/><br/>
-📊**My GitHub Stats:**
+
+## Experiences
+![Amazon](https://img.shields.io/badge/amazon%20-FF9900?style=for-the-badge&logo=amazon&logoColor=white)</br>
+![Apple](https://img.shields.io/badge/apple%20-010101?style=for-the-badge&logo=apple%20pay&logoColor=white)</br>
+
+<br/><br/>
+## Tech Stacks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![ROR](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+<br/><br/>
+
+### My GitHub Stats
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jyon124&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyon124&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
