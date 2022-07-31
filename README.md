@@ -5,7 +5,7 @@ I am a software engineer who set high-standards and strives continuously. <br/>
 Also, I am a self-motivated individual who can't stand without resolving curiosity that is wide as an ocean. <br/>
 I find it joyful working with colleagues to collaborate, brainstorm, and create synergies amongst a team to achieve overall greater results.<br/>
 Aside, I enjoy reading articles, brewing coffee, and hanging out with a stray cat.<br/>
-<img src="https://c.tenor.com/CI7hPSkr6S8AAAAC/cat-yarn.gif" width="200">. <br/>
+<img src="https://c.tenor.com/CI7hPSkr6S8AAAAC/cat-yarn.gif" width="200"> <br/>
 <a href="https://www.linkedin.com/in/jooyon-won-8093b013a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://footprint-j.herokuapp.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 <br/><br/>
