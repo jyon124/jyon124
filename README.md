@@ -19,7 +19,7 @@ In my leisure time, I find immense pleasure in reading articles, brewing a perfe
 ![WorkBar](https://img.shields.io/badge/June_2022%20-white?style=for-the-badge&logo=bar&logoColor=white)
 ![WorkBar](https://img.shields.io/badge/--%20-white?style=for-the-badge&logo=bar&logoColor=white)
 ![WorkBar](https://img.shields.io/badge/Present%20-white?style=for-the-badge&logo=bar&logoColor=white)
-</br>
+</br></br>
 ![Apple](https://img.shields.io/badge/apple%20-010101?style=for-the-badge&logo=apple%20pay&logoColor=white)
 </br>
 ![Software Engineer, SRE](https://img.shields.io/badge/Software_Engineer,_SRE%20-white?style=for-the-badge&logoColor=white)
