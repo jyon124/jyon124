@@ -7,8 +7,12 @@ I take great delight in collaborating with colleagues, engaging in productive br
 In my leisure time, I find immense pleasure in reading articles, brewing a perfect cup of coffee, and spending quality moments with stray cats.<br/>
 <div align="center">
 <img src="https://c.tenor.com/CI7hPSkr6S8AAAAC/cat-yarn.gif" width="200"> <br/>
-<a href="https://www.linkedin.com/in/jooyon-won-8093b013a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<a href="https://portfolio-j.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+<a href="https://www.linkedin.com/in/jooyon-won-8093b013a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://portfolio-j.onrender.com/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+<a href="https://www.buymeacoffee.com/jyon1204g" target="_blank" />
+  <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="28" width="140" />
 </div>
 <br/><br/><br/>
 
@@ -28,7 +32,7 @@ In my leisure time, I find immense pleasure in reading articles, brewing a perfe
 ![WorkBar](https://img.shields.io/badge/May_2022%20-white?style=for-the-badge&logo=bar%&logoColor=white)
 </br><br/><br/>
 
-## Tech Stacks
+## Things I code with...
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
@@ -56,13 +60,15 @@ In my leisure time, I find immense pleasure in reading articles, brewing a perfe
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 <br/><br/><br/>
 
-## My GitHub Stats
+## GitHub Stats & Data
 <p>
   <img width="36%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=jyon124&theme=white&hide_border=true"/>
   <img width="35%" src="https://github-readme-stats.vercel.app/api?username=jyon124&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img width="26%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyon124&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=jyon124&theme=react-dark" /> -->
 </p>
+<div>📜 66 Public Repositories</div>
+<div>🔑 232 Private Repositories</div>
 <br/><br/>
 
 ## Profile Trophy
