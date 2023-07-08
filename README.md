@@ -12,7 +12,7 @@ In my leisure time, I find immense pleasure in reading articles, brewing a perfe
 </div>
 <br/><br/><br/>
 
-## Experiences
+## Professional Experiences
 ![Amazon](https://img.shields.io/badge/amazon%20-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 </br>
 ![Software Engineer, Infra](https://img.shields.io/badge/Software_Engineer,_Infra%20-white?style=for-the-badge&logoColor=white)
