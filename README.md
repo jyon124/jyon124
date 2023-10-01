@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello folks, I am <a href="https://portfolio-j.onrender.com/" target="_blank">Jooyon Won </a>
+## Hello folks, I am <a href="https://portfolio-j.onrender.com/" target="_blank">Jooyon Won </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 
 A pleasure to make your acquaintance!<br/>
 I am a software engineer who upholds high standards and consistently strives for improvement.<br/>
@@ -6,7 +6,7 @@ As an individual, I am self-motivated and driven by an insatiable curiosity that
 I take great delight in collaborating with colleagues, engaging in productive brainstorming sessions, and fostering synergistic teamwork to achieve outstanding outcomes collectively.<br/>
 In my leisure time, I find immense pleasure in reading articles, brewing a perfect cup of coffee, and spending quality moments with stray cats.<br/>
 <div align="center">
-<img src="https://c.tenor.com/CI7hPSkr6S8AAAAC/cat-yarn.gif" width="200"> <br/>
+<img src="https://c.tenor.com/CI7hPSkr6S8AAAAC/cat-yarn.gif" width="200"><br/>
 <a href="https://www.linkedin.com/in/jooyon-won-8093b013a/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="https://portfolio-j.onrender.com/">
