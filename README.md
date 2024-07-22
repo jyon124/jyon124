@@ -85,10 +85,11 @@ p.s. feel free to dm for small talk ☕️<br/>
 
 ## Stats
 <p>
-  <img width="36%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=jyon124&theme=white&hide_border=true"/>
-  <img width="35%" src="https://github-readme-stats.vercel.app/api?username=jyon124&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img width="26%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyon124&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img width="38%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=jyon124&theme=white&hide_border=true"/>
+  <img width="22%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyon124&layout=donut-vertical" />
+  <img width="38%" src="https://github-readme-stats.vercel.app/api?username=jyon124&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
+
 <div>📜 66 Public Repositories</div>
 <div>🔑 247 Private Repositories</div>
 <br/><br/>
