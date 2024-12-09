@@ -84,7 +84,7 @@ p.s. feel free to dm for small talk ☕️<br/>
 <br/><br/><br/>
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyon124&layout=compact&theme=github_light&hide_title=false&card_width=600&langs_count=10)](https://github.com/jyon124/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyon124&layout=compact&theme=github_light&hide_title=false&card_width=600&langs_count=8)]([https://github.com/jyon124/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jyon124&layout=compact&theme=github_light&hide_title=false&card_width=600&langs_count=8))
 <p>
   <img width="38%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=jyon124&theme=white&hide_border=true"/>
 <!--   <img width="22%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyon124&layout=donut-vertical" /> -->
