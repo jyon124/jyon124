@@ -86,13 +86,13 @@ p.s. feel free to dm for small talk ☕️<br/>
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyon124&layout=compact&theme=github_light&hide_title=false&card_width=600&langs_count=8)]([https://github.com/jyon124/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jyon124&layout=compact&theme=github_light&hide_title=false&card_width=600&langs_count=8))
 <p>
-  <img width="50%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=jyon124&theme=white&hide_border=true"/>
+<!--   <img width="40%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=jyon124&theme=white&hide_border=true"/> -->
 <!--   <img width="22%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyon124&layout=donut-vertical" /> -->
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=jyon124&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=jyon124&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
 
-<div>📜 66 Public Repositories</div>
-<div>🔑 247 Private Repositories</div>
+<div>📜 68 Public Repositories</div>
+<div>🔑 248 Private Repositories</div>
 <br/><br/>
 
 ## Profile Trophy
