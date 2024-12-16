@@ -1,4 +1,4 @@
-## Hello folks, I am <a href="https://portfolio-j.onrender.com/" target="_blank">Jooyon Won </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+## Hi folks, I am <a href="https://portfolio-j.onrender.com/" target="_blank">Jooyon Won </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 
 🌙 I believe that happiness and positivity come from within, through small things like enjoying a cup of coffee in the morning breeze.
 
