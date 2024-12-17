@@ -2,7 +2,7 @@
 
 🌙 I believe that happiness and positivity come from within, through small things like enjoying a cup of coffee in the morning breeze.
 
-As an engineer, I focus and value on solving problems that help people, regardless of their scale, impact, or visibility.
+As a software engineer, I focus and value on solving problems that help people, regardless of their scale, impact, or visibility.
 
 
 p.s. feel free to dm for small talk ☕️<br/>
