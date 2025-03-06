@@ -1,37 +1,20 @@
-## Hi there, I am <a href="https://portfolio-j.onrender.com/" target="_blank">Jooyon Won </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+## Hi there, I am Nate Won <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+I believe that happiness and positivity come from within, through small things like enjoying a cup of coffee in the morning breeze.
 
-🌙 I believe that happiness and positivity come from within, through small things like enjoying a cup of coffee in the morning breeze.
-
-As a software engineer, I focus and value on solving problems that help people, regardless of their scale, impact, or visibility.
+As an engineer, I focus and value on solving problems that help people, regardless of their scale, impact, or visibility.
 
 
-p.s. feel free to dm for small talk ☕️<br/>
+<br/>
 <div align="center">
 <img src="https://c.tenor.com/CI7hPSkr6S8AAAAC/cat-yarn.gif" width="200"><br/>
 <a href="https://www.linkedin.com/in/jooyon-won-8093b013a/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<a href="https://portfolio-j.onrender.com/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 <a href="https://www.buymeacoffee.com/jyon1204g" target="_blank" />
   <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="28" width="140" />
 </div>
 <br/><br/><br/>
 
-## Experiences
-![Amazon](https://img.shields.io/badge/amazon%20-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
-![Software Engineer II](https://img.shields.io/badge/Software_Engineer_II%20-white?style=for-the-badge&logoColor=white)
-![WorkBar](https://img.shields.io/badge/June_2022%20-white?style=for-the-badge&logo=bar&logoColor=white)
-![WorkBar](https://img.shields.io/badge/--%20-white?style=for-the-badge&logo=bar&logoColor=white)
-![WorkBar](https://img.shields.io/badge/Present%20-white?style=for-the-badge&logo=bar&logoColor=white)
-</br></br>
-![Apple](https://img.shields.io/badge/apple%20-010101?style=for-the-badge&logo=apple%20pay&logoColor=white)
-![Software Engineer](https://img.shields.io/badge/Software_Engineer%20-white?style=for-the-badge&logoColor=white)
-![WorkBar](https://img.shields.io/badge/Mar_2021%20-white?style=for-the-badge&logo=bar%&logoColor=white)
-![WorkBar](https://img.shields.io/badge/--%20-white?style=for-the-badge&logo=bar%&logoColor=white)
-![WorkBar](https://img.shields.io/badge/May_2022%20-white?style=for-the-badge&logo=bar%&logoColor=white)
-</br><br/><br/>
-
-## Tech Stack I use for building things or solving problems...
+## Tech Stack I use for building things...
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/gin-%2300ADD8.svg?style=for-the-badge&logo=gin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
