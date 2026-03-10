@@ -67,18 +67,8 @@ As an engineer, I focus and value on solving problems that help people, regardle
 <br/><br/><br/>
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyon124&layout=compact&theme=github_light&hide_title=false&card_width=600&langs_count=8)]([https://github.com/jyon124/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jyon124&layout=compact&theme=github_light&hide_title=false&card_width=600&langs_count=8))
-<p>
-<!--   <img width="40%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=jyon124&theme=white&hide_border=true"/> -->
-<!--   <img width="22%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyon124&layout=donut-vertical" /> -->
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=jyon124&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</p>
-
-<div>📜 74 Public Repositories</div>
-<div>🔑 248 Private Repositories</div>
-<br/><br/>
-
-## Profile Trophy
-<p>
-  <img width="80%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=jyon124&row=4&theme=white&no-frame=true"/>
-</p>
+<div align="center">
+  <img height="180" width="300" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=jyon124&theme=radical&hide_border=true"/>
+  <img height="119" width="300" alt="Top Langs" src="https://github-readme-stats-dusky-seven-14.vercel.app/api/top-langs?username=jyon124&count_private=true&layout=compact&theme=radical&hide_border=true&hide_title=true"/>
+</div>
+<br/>
